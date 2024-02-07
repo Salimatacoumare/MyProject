@@ -4,7 +4,8 @@ function Produit({ title, price, image }) {
         <img src={"./images/" + image} alt={title} />
         <p>{title}</p>
         <p>{price}</p>
-        <button>Ajouter au panier</button>
+        <p>Boite a panier</p>
+        <NbreArti/>
       </div>
     );
   }
