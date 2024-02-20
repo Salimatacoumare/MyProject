@@ -1,0 +1,19 @@
+.buttonAjout{
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+     border: 1px, solid, rgb(146, 146, 233); 
+     background-color: rgb(61, 61, 151);
+     color: black; 
+
+}
+.buttonSupp{
+    padding: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+     border: 1px, solid, rgb(122, 221, 238); 
+     background-color: rgb(8, 8, 8);
+     color: rgb(247, 252, 252);
+    
+
+}
